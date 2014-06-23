@@ -1,7 +1,8 @@
 curso
-Nombre: Fernando Barbara
-C.I.:V-12.435.485
-email: fernandojafer@gmail.com
+Fernando Barbara
+V-12.435.485
+fernandojafer@gmail.com
+
 =====
 
 curso
